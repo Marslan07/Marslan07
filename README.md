@@ -89,6 +89,16 @@ I'm a results-driven Full Stack Developer with **3+ years of professional experi
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marslan07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/><br/>
+  <img src="https://streak-stats.demolab.com?user=Marslan07&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marslan07&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1800" height="180" alt="Top Languages"/>
+</div>
+
+---
+
 ## 🌟 What I Value
 
 - Writing clean, maintainable, and scalable code.
