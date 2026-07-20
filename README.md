@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Malik Arslan 👋</h1>
-<h3 align="center">Full Stack Developer (MERN) · Multan / Islamabad, Pakistan</h3>
+<h3 align="center">Full Stack Developer (MERN)</h3>
 
 <br/>
 
