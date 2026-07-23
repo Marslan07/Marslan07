@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Malik Arslan 👋</h1>
 
-<br/>
-
 I'm an experienced Full Stack Engineer specializing in the MERN stack and AI integration, with over **4 years of experience** building scalable, high-performance web applications. I specialize in end-to-end product development — crafting responsive UIs with **React/Next.js** and architecting robust backends with **Node.js · NestJS · MongoDB · PostgreSQL**. I thrive on architecting end-to-end solutions that solve complex business problems.
 
 ---
