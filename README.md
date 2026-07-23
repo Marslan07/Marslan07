@@ -3,7 +3,7 @@
 
 <br/>
 
-I'm a results-driven Full Stack Developer with **3+ years of professional experience** building scalable, high-performance web applications. I specialize in end-to-end product development — crafting responsive UIs with **React/Next.js** and architecting robust backends with **Node.js · NestJS · MongoDB · PostgreSQL**. Currently a Software Engineer at **Frontendex**.
+I'm an experienced Full Stack Engineer specializing in the MERN stack and AI integration, with over **4 years of experience** building scalable, high-performance web applications. I specialize in end-to-end product development — crafting responsive UIs with **React/Next.js** and architecting robust backends with **Node.js · NestJS · MongoDB · PostgreSQL**. Currently a Software Engineer at **Frontendex**.
 
 ---
 
