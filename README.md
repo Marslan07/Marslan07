@@ -9,6 +9,7 @@ I'm an experienced Full Stack Engineer specializing in the MERN stack and AI int
 - **⚡ Full-Stack Architecture:** Deep proficiency in both front-end (React/Next.js) and back-end (Node.js/NestJS/Express), ensuring clean separation and scalable design across MERN and NestJS stacks.
 - **🏛️ Enterprise & Government Solutions:** Proven track record delivering production-grade applications for government portals and enterprise platforms serving thousands of real-world users.
 - **💳 Payments & Third-Party Integrations:** Experienced integrating Stripe subscription billing, Microsoft Calendar API, Strapi CMS, and complex REST APIs into multi-tenant applications.
+- **🤖 AI Integration & RAG Pipelines:** Hands-on experience building LangChain-powered workflows and Retrieval-Augmented Generation (RAG) pipelines to integrate LLM capabilities into production web applications.
 
 ---
 
@@ -20,6 +21,7 @@ I'm an experienced Full Stack Engineer specializing in the MERN stack and AI int
 | **UI/UX & Styling** | Tailwind CSS, Ant Design, Bootstrap, Shadcn UI, HTML5/CSS3 |
 | **Databases** | PostgreSQL, MongoDB, Supabase |
 | **Tools & DevOps** | Git, REST APIs, Strapi CMS, React Query, Redux, Jira, Bitbucket |
+| **AI & LLM** | LangChain, RAG (Retrieval-Augmented Generation) |
 
 ---
 
